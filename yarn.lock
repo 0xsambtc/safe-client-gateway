@@ -1567,12 +1567,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@safe-global/safe-deployments@npm:^1.37.1":
-  version: 1.37.1
-  resolution: "@safe-global/safe-deployments@npm:1.37.1"
+"@safe-global/safe-deployments@npm:@0xsambtc/safe-deployments@1.37.2-alpha":
+  version: 1.37.2-alpha
+  resolution: "@0xsambtc/safe-deployments@npm:1.37.2-alpha"
   dependencies:
     semver: "npm:^7.6.2"
-  checksum: 10/2cb05ad0d1768264885d9e92d1fcc1340af77f88605ac46fd99b8aa4118d923671e4bb3d380e3dd7caa13ca4e8ed6edae4765dd5394b78966a51f391375d683b
+  checksum: 10/d4e3e3f57860e1c8a1c67457b6fe11de9be354ee3360e5d97f6de665bf1ac2e0a2bb7dd0597e14ce2f20b528302fbf9201c241f3d6ba3fb7cdea6a31980de4c0
   languageName: node
   linkType: hard
 

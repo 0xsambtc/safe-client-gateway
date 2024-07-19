@@ -24,6 +24,9 @@
     "test:all": "jest --config ./test/jest-all.json",
     "test:all:cov": "jest --coverage --config ./test/jest-all.json"
   },
+  "resolutions": {
+    "@safe-global/safe-deployments": "npm:@0xsambtc/safe-deployments@1.37.2-alpha"
+  },
   "dependencies": {
     "@nestjs/cli": "^10.4.2",
     "@nestjs/common": "^10.3.10",
